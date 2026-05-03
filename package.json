@@ -1,0 +1,21 @@
+{
+  "name": "huecomundo",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=GhostCommit&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backfill%20your%20GitHub%20contribution%20graph%20silently&descAlignY=58&descSize=16&descColor=aaaaaa\" width=\"100%\" />\r </div>",
+  "main": "GhostCommit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayaniadamsasaki/HuecoMundo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Bayaniadamsasaki/HuecoMundo/issues"
+  },
+  "homepage": "https://github.com/Bayaniadamsasaki/HuecoMundo#readme"
+}
